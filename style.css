@@ -2,3 +2,26 @@ body {
   margin: 0;
   padding: 0;
 }
+
+h2, p {
+    text-shadow: 1px 5px 5px black;
+}
+
+h2 {
+    color: #413b3a;
+    font-weight: lighter;
+    font-size: xxx-large;
+}
+
+.carousel-caption.d-none.d-md-block {
+    margin-bottom: 30px;
+}
+
+.row {
+  text-align: center;
+}
+
+img.card-img-top {
+    height: 65vh;
+    margin-top: -100px;
+}
