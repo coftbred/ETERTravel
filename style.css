@@ -85,3 +85,58 @@ img.card-img-top {
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
     transform: scale(1.05); }
+
+.col-lg-6 {align-self: center;}
+
+.quote {
+    margin-left: -150px;
+    margin-right: 150px;
+}
+h5 {
+  font-size: 40px !important;
+}
+.container a h1 {
+    font-size: 40px;
+    font-weight: lighter;
+}
+html,body{
+  font: 300 14px 'Montserrat';
+}
+
+body{
+  background: pink !important;
+}
+.carousel-indicators li {
+    border-radius: 100%;
+    width: 10px !important;
+    height: 10px !important;
+}
+
+#store .carousel-inner img {
+    width: 100%;
+    height: 100vh;
+}
+a.store.text-white {
+    background: #bc0909;
+    padding: 8px 25px;
+}
+.pre-footer.row.mt-5 p {
+    font-weight: lighter;
+}
+.intro.row a {
+    font-weight: lighter;
+}
+footer{
+  font-weight: lighter;
+}
+footer a{
+  font-weight: normal !important;
+}
+footer.text-white.row img {
+    width: 40px;
+    height: 30px;
+}
+header a img{
+  width: 30px;
+  height: 20px;
+}
