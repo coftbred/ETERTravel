@@ -81,10 +81,31 @@ img.card-img-top {
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
     transform: scale(1.05); }
-=======
+    
 .col-lg-6 {align-self: center;}
 
 .quote {
     margin-left: -150px;
     margin-right: 150px;
 }
+
+img.img-md-fluid {
+  height: 80vh;
+} 
+
+.col-lg-6.align-self-center.p-5.bg-white.overlap-left p {
+  font-weight: 300;
+  text-shadow: none;
+  font-size: 1.2rem;
+  line-height: 1.7;
+}
+
+.overlap-left {
+  margin-left: -100px; }
+  @media (max-width: 991.98px) {
+    .overlap-left {
+      margin-left: 0px; } }
+
+@media (max-width: 991.98px) {
+        .img-md-fluid {
+          max-width: 100%; } }
