@@ -100,6 +100,11 @@ img.img-md-fluid {
   line-height: 1.7;
 }
 
+.container-fluid.bg-color {
+  background: #d9d6d6;
+}
+
+
 .overlap-left {
   margin-left: -100px; }
   @media (max-width: 991.98px) {
