@@ -7,11 +7,11 @@ img.img-fluid.pull-xs-left.d-inline-block.align-center {
     border-radius: 100%;
 }
 
-h2, p {
+h2, .title-content p {
     text-shadow: 1px 1px 2px black;
 }
 
-p {
+.title-content p {
   font-weight: 700;
   color: #413b3a;
 }
@@ -19,7 +19,11 @@ p {
 h2 {
     color: #413b3a;
     font-weight: lighter;
-    font-size: xxx-large;
+    font-size: xx-large;
+}
+
+img.mr-3 {
+    align-self: center;
 }
 
 .carousel-caption.d-none.d-md-block {
@@ -30,11 +34,26 @@ h2 {
   text-align: center;
 }
 
-img.card-img-top {
-    height: 65vh;
-    margin-top: -100px;
+
+.card {
+  box-shadow: 1px 1px 5px grey;
+  margin-top: -50px;
 }
 
+h1.font-weight-lighter {
+    text-align: center;
+}
+
+.infor {
+    max-width: 75%;
+    text-align: left;
+    margin-left: -100px;
+    background: white;
+}
+
+.col-md-6 {
+    align-self: center;
+}
 
 .unit-1 {
   position: relative;
@@ -81,13 +100,14 @@ img.card-img-top {
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
     transform: scale(1.05); }
-    
+
 .col-lg-6 {align-self: center;}
 
 .quote {
     margin-left: -150px;
     margin-right: 150px;
 }
+
 
 img.img-md-fluid {
   height: 80vh;
@@ -114,3 +134,50 @@ img.img-md-fluid {
 @media (max-width: 991.98px) {
         .img-md-fluid {
           max-width: 100%; } }
+=======
+h5 {
+  font-size: 40px !important;
+}
+.container a h1 {
+    font-size: 40px;
+    font-weight: lighter;
+}
+html,body{
+  font: 300 14px 'Montserrat';
+}
+
+.carousel-indicators li {
+    border-radius: 100%;
+    width: 10px !important;
+    height: 10px !important;
+}
+
+#store .carousel-inner img {
+    width: 100%;
+    height: 100vh;
+}
+a.store.text-white {
+    background: #bc0909;
+    padding: 8px 25px;
+}
+.pre-footer.row.mt-5 p {
+    font-weight: lighter;
+}
+.intro.row a {
+    font-weight: lighter;
+}
+footer{
+  font-weight: lighter;
+}
+footer a{
+  font-weight: normal !important;
+}
+footer.text-white.row img {
+    width: 40px;
+    height: 30px;
+}
+header a img{
+  width: 30px;
+  height: 20px;
+}
+
