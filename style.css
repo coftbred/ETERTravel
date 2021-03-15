@@ -107,6 +107,34 @@ h1.font-weight-lighter {
     margin-left: -150px;
     margin-right: 150px;
 }
+
+
+img.img-md-fluid {
+  height: 80vh;
+} 
+
+.col-lg-6.align-self-center.p-5.bg-white.overlap-left p {
+  font-weight: 300;
+  text-shadow: none;
+  font-size: 1.2rem;
+  line-height: 1.7;
+}
+
+.container-fluid.bg-color {
+  background: #d9d6d6;
+}
+
+
+.overlap-left {
+  margin-left: -100px; }
+  @media (max-width: 991.98px) {
+    .overlap-left {
+      margin-left: 0px; } }
+
+@media (max-width: 991.98px) {
+        .img-md-fluid {
+          max-width: 100%; } }
+=======
 h5 {
   font-size: 40px !important;
 }
@@ -152,3 +180,4 @@ header a img{
   width: 30px;
   height: 20px;
 }
+
