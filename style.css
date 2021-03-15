@@ -121,7 +121,7 @@ img.img-md-fluid {
 }
 
 .container-fluid.bg-color {
-  background: #d9d6d6;
+  background: #f8f9fa;
 }
 
 
@@ -134,7 +134,7 @@ img.img-md-fluid {
 @media (max-width: 991.98px) {
         .img-md-fluid {
           max-width: 100%; } }
-=======
+
 h5 {
   font-size: 40px !important;
 }
@@ -181,3 +181,16 @@ header a img{
   height: 20px;
 }
 
+.unit-4.d-flex h3 {font-size: 2.2rem;}
+
+.unit-4.d-flex p {
+    font-size: 1.1rem;
+}
+
+.unit-4.d-flex {
+    text-align: left;
+}
+
+.unit-4 a {
+  color: #e91e63;
+}
