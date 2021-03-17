@@ -132,7 +132,9 @@ h1.font-weight-lighter {
     margin-right: 150px;
 }
 
-
+img.img-md-fluid {
+    height: 100vh;
+}
 
 .col-lg-6.align-self-center.p-5.bg-white.overlap-left p {
   font-weight: 300;
