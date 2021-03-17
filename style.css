@@ -133,9 +133,6 @@ h1.font-weight-lighter {
 }
 
 
-img.img-md-fluid {
-  height: 80vh;
-}
 
 .col-lg-6.align-self-center.p-5.bg-white.overlap-left p {
   font-weight: 300;
@@ -224,4 +221,37 @@ a.traveler {
 a.traveler:hover {
     cursor: pointer;
     color: darkred;
+}
+
+.container.pt-5.pb-5 {
+    text-align-last: left;
+}
+
+.footer_content p {
+    color: lightslategrey;
+}
+
+.list-nav-text a {
+    color: darkgrey;
+    text-decoration: none;
+}
+
+.list-nav-text a:hover {
+    cursor: pointer;
+    color: lightgrey;
+}
+
+.icon ul.ml-auto.list-unstyled.d-flex.mb-0{
+    place-content: center;
+}
+
+
+.icon ul.ml-auto.list-unstyled.d-flex.mb-0 a{
+  color: darkgrey;
+  text-decoration: none;
+}
+
+.icon ul.ml-auto.list-unstyled.d-flex.mb-0 a:hover{
+  cursor: pointer;
+  color: lightgrey;
 }
