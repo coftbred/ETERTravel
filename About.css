@@ -1,12 +1,9 @@
-body
-{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  min-height: 100vh;
-  background: #010615;
+
+
+.container {
+    text-align: -webkit-center;
 }
+
 .box
 {
   position:relative;
@@ -89,7 +86,7 @@ body
   right: 10px;
   bottom: 10px;
   height: 90px;
-  background: rgba(0,0,0,0.4);
+  background: rgb(255 255 255 / 40%);
   display: flex;
   justify-content: center;
   align-items: center;
