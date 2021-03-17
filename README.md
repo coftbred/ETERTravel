@@ -1,2 +1,2 @@
 # ETERTravel
-Travel project
+Travel website project
