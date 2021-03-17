@@ -174,30 +174,6 @@ h5 {
     width: 100%;
     height: 100vh;
 }
-a.store.text-white {
-    background: #bc0909;
-    padding: 8px 25px;
-}
-.pre-footer.row.mt-5 p {
-    font-weight: lighter;
-}
-.intro.row a {
-    font-weight: lighter;
-}
-footer{
-  font-weight: lighter;
-}
-footer a{
-  font-weight: normal !important;
-}
-footer.text-white.row img {
-    width: 40px;
-    height: 30px;
-}
-header a img{
-  width: 30px;
-  height: 20px;
-}
 
 .unit-4.d-flex h3 {font-size: 2.2rem;}
 
@@ -211,6 +187,10 @@ header a img{
 
 .unit-4 a {
   color: #e91e63;
+}
+
+p.color-black-opacity-5 {
+    text-align: center;
 }
 
 a.traveler {
