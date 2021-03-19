@@ -1,0 +1,11 @@
+.banner1 {
+    background: url(https://webunwto.s3.eu-west-1.amazonaws.com/2020-04/restrction.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    text-shadow: 1px 1px 10px white;
+}
+
+.jumbotron {
+    height: 60vh;
+}
