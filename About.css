@@ -12,6 +12,8 @@
     background-repeat: no-repeat;
 }
 
+.carousel-caption.d-none.d-md-block {top: 20vh;}
+
 .input-group
 {
   width: 90%!important;
