@@ -245,6 +245,7 @@ h1
 .single-service img {
   width: 100%;
   border-radius: 7px;
+  height: 55vh;
 }
 .overlay
 {
@@ -327,11 +328,13 @@ hr
 }
 .testimonial-col p{
   font-size: 14px;
+  height: 15vh
 }
 .user{
   display: flex;
   align-items: center;
   margin: 20px 0;
+  height: 20vh;
 }
 .user img{
   width: 40px;
