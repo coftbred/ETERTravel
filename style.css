@@ -223,3 +223,16 @@ a.traveler:hover {
   cursor: pointer;
   color: lightgrey;
 }
+
+.card-img-fluid {
+  height: 40vh;
+}
+
+.card-body:hover {
+    cursor: pointer;
+    background: linear-gradient( 40deg, #f30e0e, #ff9800 );
+}
+
+.checked {
+  color: yellow;
+}
