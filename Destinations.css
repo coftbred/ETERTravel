@@ -296,3 +296,7 @@ h1
   margin-bottom: 30px;
   transition: transform.5s;
 }
+.feature-box:hover h4{
+    color: red;
+    text-decoration: none;
+}
