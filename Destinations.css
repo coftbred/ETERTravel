@@ -63,6 +63,8 @@
 .country-col img{
   width: 100%;
   display: block;
+  height: 35vh;
+  padding: 1px;
 }
 .layer
 {
@@ -274,6 +276,7 @@ h1
 {
   padding: 20px;
   text-align: justify;
+  height: 40vh;
 }
 .feature-details h4
 {
