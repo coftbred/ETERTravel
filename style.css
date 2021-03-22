@@ -236,3 +236,10 @@ a.traveler:hover {
 .checked {
   color: yellow;
 }
+/*blogcss*/
+.welcome h3{
+  text-align: center;
+  color: gray;
+  padding: 15px;
+
+}
