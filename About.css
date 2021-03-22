@@ -12,6 +12,15 @@
     background-repeat: no-repeat;
 }
 
+a {
+  color: black;
+  text-decoration: none;
+}
+
+img.img-fluid.pull-xs-left.d-inline-block.align-center {
+    border-radius: 100%;
+}
+
 .carousel-caption.d-none.d-md-block {top: 20vh;}
 
 .input-group
