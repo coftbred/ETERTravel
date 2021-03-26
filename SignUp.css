@@ -106,3 +106,15 @@ button.submit-btn {
     border-radius: 31px;
     display: none;
 }
+
+.Home_back {
+    margin-top: 5vh;
+    text-align-last: center;
+}
+
+.Home_back a {
+    background: linear-gradient(to right, #362b2f, #999891);
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 10px;
+}
