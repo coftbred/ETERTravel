@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
         let user = info.results[0];
         let output = `
             <img src="${user.picture.large}" class="rounded-circle ${user.gender}">
-            <h2> ${user.name.first} ${user.name.last} </h2>
+            <h3> ${user.name.first} ${user.name.last} </h3>
             <h4 class="font-weight-light"> ${user.location.city}, ${user.location.country} </h4>
             <p><em> ${user.email}</em></p>
             <p>${comment[i].body}</p>
