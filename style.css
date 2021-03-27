@@ -237,45 +237,28 @@ a.traveler:hover {
   color: yellow;
 }
 /*blogcss*/
-.welcome h3{
-  text-align: center;
-  color: gray;
-  padding: 17px;
-color: orange;
-}
-.welcome h4{
-  text-align: center;
-  color: gray;
-  padding: 12px;
-  color: orange;
-}
-.text h5{
-  text-align: center;
-  color: orange;
-  font-size: 50px;
+
+.title {
+    text-align: center;
 }
 
-.col-sm-8 p{
-  font-size: 15px;
-  margin-left: 100px;
-  width: 600px;
-  text-align: center;
+img.img-fluid-post {
+    height: 35vh;
 }
+
+.box {
+    padding: 10px;
+}
+
 .btn1 button{
   font-size: 22px;
 }
-.col-sm-8-1 {
-  padding: 20px;
-}
+
 .search {
   background-color: #f3a750d9;;
   margin-right: 100px;
 }
- h1{
-  text-align: center;
-  font-size: 30px;
-  margin-top: 20px;
-}
+
 .Categories {
   background-color: #f3a750d9;;
   margin-right: 100px;
@@ -305,6 +288,7 @@ color: orange;
 .comments h3{
   font-size: 15px;
 }
+
 .btn button{
   background-color: white;
   border-color: red;
@@ -320,4 +304,15 @@ color: orange;
 .container2{
   margin-top: 20px;
   background-color: gray;
+}
+
+h3.outline {
+    text-align: center;
+}
+
+hr {
+  height: 10px;
+  border-width:0;
+  color:gray;
+  background-color:gray;
 }
