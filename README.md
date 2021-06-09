@@ -1,2 +1,2 @@
-# ETERTravel
+# OneTravel
 Travel website project

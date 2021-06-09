@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sign Up</title>
-    <link rel="stylesheet" href="SignUp.css">
+    <link rel="stylesheet" href="css/SignUp.css">
 </head>
 <body>
 
@@ -18,7 +18,7 @@
       <div class="d-flex h-100 text-center align-items-center">
         <div class="registrationForm">
             <div class="form-box">
-              <button class="submit-btn mb-5"><a href="Home.html">Back HomePage</a></button>
+              <button class="submit-btn mb-5"><a href="index.php">Back HomePage</a></button>
                 <div class="button-box mt-5">
                     <div id="btn"></div>
                     <button type="button" class="toggle-btn" onclick="login()">Log In</button>
@@ -45,7 +45,7 @@
 
 
 
-    <script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-app.js"></script>
 	<script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-auth.js"></script>
 	<script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-database.js"></script>
 	<script src="https://www.gstatic.com/firebasejs/8.3.1/firebase-analytics.js"></script>
